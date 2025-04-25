@@ -8,7 +8,10 @@ Python 3.7 or newer
 ## How to Use
 This is step by step to run my code using the existing model, which is the model that i've trained with this 70 images.
 1. Clone Repository
-   
+   ```
+   git clone https://github.com/lituldust/Face-Detection-and-Recognition.git
+   cd 'Face-Detection-and-Recognition'
+   ```
 2. Install Packages
    ```
    pip install -r requirements.txt

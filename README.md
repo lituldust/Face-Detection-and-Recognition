@@ -12,18 +12,19 @@ This is step by step to run my code using the existing model, which is the model
    git clone https://github.com/lituldust/Face-Detection-and-Recognition.git
    cd 'Face-Detection-and-Recognition'
    ```
-2. Install Packages
+2. Setup Virtual Environment
+   ```
+   python -m venv .venv
+   .venv/Scripts/activate
+   ```
+3. Install Packages
    ```
    pip install -r requirements.txt
    ```
-3. Real Time Implementation
+4. Real Time Implementation
    Run the `main.py`
    ```
    python main.py
-   ```
-   or
-   ```
-   python3 main.py
    ```
 
 ## Retraining The Model

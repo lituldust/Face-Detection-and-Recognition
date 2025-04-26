@@ -1,6 +1,6 @@
 # Face-Detection-and-Recognition
 ## Description
-This is my workshop project assignment for Computer Vision course. In this project, the dataset is 70 images with 7 individuals and 10 pictures of each. The dataset trained using eigenface method and Support Vector Machine (SVC) algorithm. For the detailed, please refer to `FaceRecognitionEigenface.ipynb`.
+This is my workshop project assignment for Computer Vision course. In this project, the dataset is 70 images with 7 individuals and 10 pictures of each. The dataset trained using eigenface method and Support Vector Machine (SVC) algorithm. For the details, please refer to `FaceRecognitionEigenface.ipynb`.
 
 ## Prerequisites
 Python 3.7 or newer
